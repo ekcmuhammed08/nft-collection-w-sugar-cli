@@ -1,0 +1,28 @@
+{
+    "name": "Young Gang #3",
+    "symbol" : "YNG",
+    "description" :"Young gang members are attractive and gogetter",
+    "image" : "2.png",
+    "attributes" : [
+        {
+            "trait_type": "moustache",
+            "value": "stubble" 
+        },
+        {
+            "trait_type": "hairstyle",
+            "value": "stable" 
+        },
+        {
+            "trait_type": "uniqe feature",
+            "value": "polygamous" 
+        }
+    ],
+    "properties":{
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}   

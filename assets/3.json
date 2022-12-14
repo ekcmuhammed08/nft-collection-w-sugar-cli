@@ -1,0 +1,28 @@
+{
+    "name": "Young Gang #4",
+    "symbol" : "YNG",
+    "description" :"Young gang members are attractive and gogetter",
+    "image" : "3.png",
+    "attributes" : [
+        {
+            "trait_type": "moustache",
+            "value": "none" 
+        },
+        {
+            "trait_type": "hairstyle",
+            "value": "none" 
+        },
+        {
+            "trait_type": "uniqe feature",
+            "value": "green-kitty shaker" 
+        }
+    ],
+    "properties":{
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}   

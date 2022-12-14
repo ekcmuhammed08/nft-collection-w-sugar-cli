@@ -1,0 +1,28 @@
+{
+    "name": "Young Gang #5",
+    "symbol" : "YNG",
+    "description" :"Young gang members are attractive and gogetter",
+    "image" : "4.png",
+    "attributes" : [
+        {
+            "trait_type": "moustache",
+            "value": "fresh" 
+        },
+        {
+            "trait_type": "hairstyle",
+            "value": "natural" 
+        },
+        {
+            "trait_type": "uniqe feature",
+            "value": "beer gut" 
+        }
+    ],
+    "properties":{
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}   

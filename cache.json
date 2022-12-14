@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "DWNFkPDn7PpgxB2mjZQhfasXS2AnDeTdCZt5dnkMBuwe",
+    "candyMachineCreator": "7vGL5avxf5JZFkVfYzZhK8HuLUcuU9iFeA7dUXPmkAo9",
+    "collectionMint": "4FjopqfeNjFoGFihZugL5AMYGrpx7BB4rD5QCPiwXKuC"
+  },
+  "items": {
+    "-1": {
+      "name": "Young Gang Collection",
+      "image_hash": "056cd5b2c31f40a58cc1d7c6526826410cc5b5023831e47ea5ff87411a2b8dbe",
+      "image_link": "https://arweave.net/MkvMPNar9udLTzjlJo0NMv_xTfwcvH-HVK9_HGELfHg?ext=png",
+      "metadata_hash": "941cf980c8ecbd4544759f1127d7b2948b7141422f40c4846d7059c3bee8c2a2",
+      "metadata_link": "https://arweave.net/MbNtP_wC1bQIQtBJvCsNxEJaSP1OkZSeFp9MY3vfT7s",
+      "onChain": true
+    },
+    "0": {
+      "name": "Young Gang #1",
+      "image_hash": "bfd4b5af1d063498c08099ac403306167b86ab5f9b04a9ec09149b27ad26b3c4",
+      "image_link": "https://arweave.net/It8mEDJuE9-Z4yzLVgClsXd8Wb67MpaOHSi6fgJz6Ks?ext=png",
+      "metadata_hash": "184318b090e7e08cc57b80e956dbccde2c977d793712af8406fc42756539ef45",
+      "metadata_link": "https://arweave.net/M6ssc9lH97LiS30f7YJhkH0n1kvkDBYGoV-z4wk-3yM",
+      "onChain": true
+    },
+    "1": {
+      "name": "Young Gang #2",
+      "image_hash": "7b115d2233a94c4a48b99bdaf462b6ceff5a027f5a94a51d79de873c8ddc1c71",
+      "image_link": "https://arweave.net/kue5apiK6DRVa6Fk7ahl1esyavn4EzMhfN8tHRyPXB0?ext=png",
+      "metadata_hash": "292537faaed59e3e8e952b512a32e29ff03c67faba0f1c4a28388b1ffdca52aa",
+      "metadata_link": "https://arweave.net/5MrXf-tx4AtFu-DiKHHBAE0yjiAjhn-9KWRLeBRatMI",
+      "onChain": true
+    },
+    "2": {
+      "name": "Young Gang #3",
+      "image_hash": "fec1f68e1440516ff1dab33f36310c263630f8c91cfaa31a1d97df10ac47d6be",
+      "image_link": "https://arweave.net/79-D2mrIpLYlxvigVwZttTfS2emJzG0A1-Gg_6xPgac?ext=png",
+      "metadata_hash": "86b413a76852dde884a7489c52f7c88b9cafaa88bb1d77f1ec430fc1e195f34d",
+      "metadata_link": "https://arweave.net/fLhYHtqvAbHIvHsAy5xzj7GbNrGfylLFn-B5bRs3zQw",
+      "onChain": true
+    },
+    "3": {
+      "name": "Young Gang #4",
+      "image_hash": "19c08e90266b415c7fdeb742024a12911212d056b1e6e453f2f2dac93eec5f4b",
+      "image_link": "https://arweave.net/3w6NWoxVvsGOFgPl4KKy7lWwyDubDVMV0D8cLma_zHc?ext=png",
+      "metadata_hash": "b05667b19e9d840d7329878a7678a271e47b422510d609f8fd1effb66f740340",
+      "metadata_link": "https://arweave.net/GebTL0-vE12ALZj8oS2-EqkyHayxQoZ0_3Njrsm668A",
+      "onChain": true
+    },
+    "4": {
+      "name": "Young Gang #5",
+      "image_hash": "a88fe79b1dc957680a11c949d6eb1058d4c0ce8eb7c390414422b46f5107c90f",
+      "image_link": "https://arweave.net/jA4FJwI09OQ-fySsPzowmt7WUYRKehJECeqJB1iDYzI?ext=png",
+      "metadata_hash": "8308e614ae5d1780dcf22b935e1941191955278826cb3473912e23804bae7c75",
+      "metadata_link": "https://arweave.net/rxxp86t43T0bErugcxDfe64shzFOxWnlHysx5g7PJfs",
+      "onChain": true
+    }
+  }
+}

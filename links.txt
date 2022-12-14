@@ -1,0 +1,5 @@
+pk:FAM4DhsnY2YYZyKpFBitNtMdzhAcd8KyyC2NDMQKiRfV
+Candy machine ID: DWNFkPDn7PpgxB2mjZQhfasXS2AnDeTdCZt5dnkMBuwe
+Collection mint ID: 4FjopqfeNjFoGFihZugL5AMYGrpx7BB4rD5QCPiwXKuC
+See your candy machine at:
+  -> https://www.solaneyes.com/address/DWNFkPDn7PpgxB2mjZQhfasXS2AnDeTdCZt5dnkMBuwe?cluster=devnet
